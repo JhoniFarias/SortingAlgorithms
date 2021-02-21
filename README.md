@@ -2,7 +2,7 @@
 Algoritmos de ordenação de vetores em JAVA
 
 
-# Projeto de Faculdade !
+# Projeto de Faculdade
 
 foi utilizado os seguintes algoritmos: <b> BubbleSort, SelectionSort, InsertionSort e o famoso QuickSort.</b>
 

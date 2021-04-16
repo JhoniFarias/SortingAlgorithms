@@ -15,5 +15,5 @@ para gerar um vetor/array com os números aleatórios e desordenados, em seguida
 o tempo que cada algoritmo levou para ordenar o vetor/array
 
 
-** Toda a parte de lógica/implementação dos algoritmos, ficam no diretório <b>Business</b>
+** Toda a parte de lógica/implementação dos algoritmos, fica no diretório <b>Business</b>
 >
